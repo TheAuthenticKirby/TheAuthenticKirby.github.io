@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    font-family: "Audiowide";
+}
+
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+    background-color: yellow;
+    color: red;
+}
+
+.italic {
+    font-style: italic;
+}
+
+#decor1 {
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
